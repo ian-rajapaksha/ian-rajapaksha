@@ -50,7 +50,7 @@ A project focused on helping users organize and track their expenses.
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/](https://www.linkedin.com/in/ian-rajapaksha-6867a03b2)
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/ian-rajapaksha-6867a03b2/?isSelfProfile=true)
 - 🐙 GitHub: [@ian-rajapaksha](https://github.com/ian-rajapaksha)
 
 ---
